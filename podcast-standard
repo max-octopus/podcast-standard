@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Max Podcast LA — Production Method Standard</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 860px; margin: 48px auto; padding: 0 16px; line-height: 1.5;">
+  <h1>Max Podcast LA — Production Method Standard (v1.0)</h1>
+  <p>
+    A professional, field-tested mobile workflow for studio-quality multi-camera video podcasts and interviews—
+    designed for fast deployment, predictable results, and reliability-first redundancy.
+  </p>
+
+  <p>
+    <a href="podcast-standard" style="font-weight:700; font-size:18px;">
+      Download the PDF (v1.0)
+    </a>
+  </p>
+
+  <h3>Version History</h3>
+  <ul>
+    <li><strong>v1.0</strong> — Initial public release</li>
+  </ul>
+
+  <p style="font-size: 12px; opacity: 0.7; margin-top: 40px;">
+    © Maksym Konotopets / Max Podcast LA
+  </p>
+</body>
+</html>
